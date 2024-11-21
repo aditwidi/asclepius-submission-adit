@@ -1,0 +1,6 @@
+{
+  "backend-service-url": "https://asclepius-submission-224482111804.asia-southeast2.run.app/",
+  "frontend-service-url": "https://submissionmlgc-aditya-widi.et.r.appspot.com/",
+  "project-id": "submissionmlgc-aditya-widi",
+  "bucket-name": "asclepius-adit-submission-model"
+}
